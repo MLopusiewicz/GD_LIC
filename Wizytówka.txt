@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Mateusz Pacula
 test
+=======
+To jest gałąź M Lopusiewicza
+>>>>>>> fcba157812fb52a83f09a56ebd3b6ce9efcb6e79
