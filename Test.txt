@@ -1,1 +1,3 @@
-To jest wersja pierwsza
+To jest wersja pierwsza 
+
+testujemy
