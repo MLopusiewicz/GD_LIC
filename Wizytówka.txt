@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 To jest wizytówka JBobrowski
+=======
+To jest gałąź M Lopusiewicza
+>>>>>>> master
